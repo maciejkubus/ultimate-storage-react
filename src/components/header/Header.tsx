@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-export default function AuthHeader() {
+export default function Header() {
 	return (
 		<div className={`flex justify-between py-4 px-8`}>
 			<div
